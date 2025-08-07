@@ -3,7 +3,7 @@
 
 ## Overview
 This task demonstrates how to retrieve data from the hospital database using basic `SELECT` queries.  
-It covers filtering, projection, sorting, aliasing, pattern matching, and limiting results.
+It covers filtering, projection, sorting, pattern matching, and limiting results.
 
 ---
 
