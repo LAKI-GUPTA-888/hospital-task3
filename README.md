@@ -14,10 +14,6 @@ It covers filtering, projection, sorting, aliasing, pattern matching, and limiti
 - `BETWEEN` for date range
 - `ORDER BY` (ASC/DESC)
 - `LIMIT` for top rows
-- `DISTINCT` to get unique values
-- `IS NULL` handling
-- `IN` filter with a list
-- Aliasing (`AS`) for friendly column names
 
 ---
 
@@ -29,7 +25,7 @@ It covers filtering, projection, sorting, aliasing, pattern matching, and limiti
 ---
 
 ## Files
-- `task3.sql` – Contains various SELECT queries using all required keywords.
+- `Hospital_task3.sql` – Contains various SELECT queries using all required keywords.
 - `README.md` – This explanation file for Task 3.
 
 ---
